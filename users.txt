@@ -1,1 +1,1 @@
-return {["test"]={["device"]="eatra",["password"]="test",["expiry"]="20/02/2026",["sid"]="asdasdas"},["kinzi"]={["device"]="1771033509",["password"]="pogi",["expiry"]="16/02/2026",["sid"]="VIP"}}
+return {["test"]={["device"]="eatra",["password"]="test",["expiry"]="20/02/2026",["sid"]="asdasdas"},["kinzi"]={["device"]="1771033509",["password"]="pogi",["expiry"]="16/02/2026",["sid"]="VIP"},["testing101"]={["device"]="1771033509",["password"]="test1",["expiry"]="17/03/2026",["sid"]="VIP"}}
