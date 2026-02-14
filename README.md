@@ -1,0 +1,2 @@
+# KINZIPANEL
+test private
